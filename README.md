@@ -59,6 +59,6 @@ Testes  unitários cobrindo mais de 90% do projeto; :heavy_check_mark:
 Tarefas                                                       | Em execução      |  Feito     |
 --------------------------------------------------------------| ---------------- | -----------|
 Adição de novas receitas                                      |   :hourglass:    |            |
-Melhorar estilização.                                         |   :hourglass:    |            | 
+Melhorar estilização (Temas com styled-components 💅🏾).        |   :hourglass:    |            | 
 Adicionar mais informações ao perfil (nome, sobrenome, idade) |   :hourglass:    |            |
 Autenticação com Firebase                                     |   :hourglass:    |            |
