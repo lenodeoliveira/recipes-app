@@ -38,6 +38,6 @@ Testes  unitários cobrindo mais de 90% do projeto; :heavy_check_mark:
 #### TELAS (Pesquisa :mag: e Favoritos :star2:):
 
 
-<img align="left" src="https://user-images.githubusercontent.com/21336683/114958099-bbbcc580-9e38-11eb-9bc8-953fff399a2f.gif" alt="Tela de login" title="Login" hspace="20"/>
-<img src="https://user-images.githubusercontent.com/21336683/114957849-39340600-9e38-11eb-8ce7-510ecc771e36.gif" alt="Tela de navegação" title="Navegação" hspace="20"/>
+<img align="left" src="https://user-images.githubusercontent.com/21336683/114958099-bbbcc580-9e38-11eb-9bc8-953fff399a2f.gif" alt="Tela de pesquisa" title="Login" hspace="20"/>
+<img src="https://user-images.githubusercontent.com/21336683/114958628-c4fa6200-9e39-11eb-93f0-0174a23bd7c0.gif" alt="Tela de favoritos" title="Navegação" hspace="20"/>
 <br/>
