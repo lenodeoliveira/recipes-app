@@ -61,7 +61,6 @@ Link para apresentação:
 
 <hr/>
 
-
 ### :coffee: Implementações futuras :mechanical_arm: :
 
 Tarefas                                                       | Em execução      |  Feito     |
