@@ -29,8 +29,7 @@ O TheMealDB é um banco de dados aberto, mantido pela comunidade, com receitas e
 Testes  unitários cobrindo mais de 90% do projeto; :heavy_check_mark:
 
 #### TELAS:
-
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Navegação</p>          
+        
 
 <img align="left" src="https://user-images.githubusercontent.com/21336683/114956285-ec9afb80-9e34-11eb-9773-2e3832e74fd1.gif" alt="Made with Angular" title="Angular" hspace="20"/>
 <img align="left" src="https://user-images.githubusercontent.com/21336683/114956285-ec9afb80-9e34-11eb-9773-2e3832e74fd1.gif" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
