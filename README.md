@@ -1,4 +1,4 @@
-# :rocket: APP DE RECEITAS :plate_with_cutlery:
+# :medal_sports: APP DE RECEITAS :plate_with_cutlery:
 
 
 Projeto desenvolvido em grupo para conclusão do módulo 2, desenvolvimento front-end.
