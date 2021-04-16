@@ -53,6 +53,12 @@ Testes  unitários cobrindo mais de 90% do projeto; :heavy_check_mark:
 <img src="https://user-images.githubusercontent.com/21336683/114958731-0428b300-9e3a-11eb-9521-b66317319847.gif" alt="Tela de receita feita" title="Receita feita" hspace="20"/>
 <br/>
 
+Link para apresentação:
+<br>
+**Contato**
+<br>
+<br>
+<a href="https://docs.google.com/presentation/d/1dZOZJty9FXEDOlBXCxlOTZrP19HAiI0p1IFSuU0nydA/edit#slide=id.g35f391192_017" alt="apresentação" height="50" width="50" /></a>
 
 
 <hr/>
