@@ -6,7 +6,8 @@ Projeto desenvolvido em grupo para conclusão do módulo 2 de desenvolvimento fr
 #### DESAFIO:
 
 Construir um App de Receitas utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
-Nela será possível ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks!
+
+Nessa App será possível ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks!
 
 #### API UTILIZADA 
 TheMealDB API
