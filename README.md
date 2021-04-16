@@ -35,7 +35,7 @@ Testes  unitários cobrindo mais de 90% do projeto; :heavy_check_mark:
 <img src="https://user-images.githubusercontent.com/21336683/114957849-39340600-9e38-11eb-8ce7-510ecc771e36.gif" alt="Tela de navegação" title="Navegação" hspace="20"/>
 <br/>
 
-#### TELAS (Pesquisa e Favoritos :star2:):
+#### TELAS (Pesquisa :mag: e Favoritos :star2:):
 
 
 <img align="left" src="https://user-images.githubusercontent.com/21336683/114958099-bbbcc580-9e38-11eb-9bc8-953fff399a2f.gif" alt="Tela de login" title="Login" hspace="20"/>
