@@ -31,8 +31,8 @@ Testes  unitários cobrindo mais de 90% do projeto; :heavy_check_mark:
 #### TELAS:
 
 Login     
-<img align="left" src="https://user-images.githubusercontent.com/21336683/114956285-ec9afb80-9e34-11eb-9773-2e3832e74fd1.gif"  hspace="20"/>
 
-Navegação
-<img align="left" src="https://user-images.githubusercontent.com/21336683/114956285-ec9afb80-9e34-11eb-9773-2e3832e74fd1.gif"  hspace="20"/>
+<img align="left" src="https://user-images.githubusercontent.com/21336683/114956285-ec9afb80-9e34-11eb-9773-2e3832e74fd1.gif" alt="Made with Angular" title="Angular" hspace="20"/>
+<img align="left" src="https://user-images.githubusercontent.com/21336683/114956285-ec9afb80-9e34-11eb-9773-2e3832e74fd1.gif" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
+<img align="left" src="https://user-images.githubusercontent.com/21336683/114956285-ec9afb80-9e34-11eb-9773-2e3832e74fd1.gif" alt="Developed using Browsersync" title="Browsersync" hspace="20"/>
 <br/><br/><br/><br/><br/>
