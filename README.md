@@ -26,6 +26,9 @@ O TheMealDB é um banco de dados aberto, mantido pela comunidade, com receitas e
 * Biblioteca clipboard-copy;
 * Trello.
 
+#### Arquitetura
+* Flux
+
 #### RESULTADOS
 100% dos 87 requisitos atingidos; :heavy_check_mark: <br>
 Testes  unitários cobrindo mais de 90% do projeto; :heavy_check_mark:
