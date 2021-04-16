@@ -41,4 +41,8 @@ Navegação
 <img src="https://user-images.githubusercontent.com/21336683/114956285-ec9afb80-9e34-11eb-9773-2e3832e74fd1.gif" width="250" height="450"/>
 
 </p>
-<img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/> <img src="https://openclipart.org/download/71101/two.svg" width="300"/>
+
+<img align="left" src="https://user-images.githubusercontent.com/21336683/114956285-ec9afb80-9e34-11eb-9773-2e3832e74fd1.gif" alt="Made with Angular" title="Angular" hspace="20"/>
+<img align="left" src="https://user-images.githubusercontent.com/21336683/114956285-ec9afb80-9e34-11eb-9773-2e3832e74fd1.gif" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
+<img align="left" src="https://user-images.githubusercontent.com/21336683/114956285-ec9afb80-9e34-11eb-9773-2e3832e74fd1.gif" alt="Developed using Browsersync" title="Browsersync" hspace="20"/>
+<br/><br/><br/><br/><br/>
