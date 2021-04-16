@@ -55,10 +55,10 @@ Testes  unitários cobrindo mais de 90% do projeto; :heavy_check_mark:
 
 Link para apresentação:
 <br>
-**Contato**
+**Apresentação**
 <br>
 <br>
-<a href="https://docs.google.com/presentation/d/1dZOZJty9FXEDOlBXCxlOTZrP19HAiI0p1IFSuU0nydA/edit#slide=id.g35f391192_017" alt="apresentação" height="50" width="50" /></a>
+[APRESENTAÇÃO MÓDULO FRONT-END](https://drive.google.com/drive/u/0/folders/1RrJnz-D-rstEA1CHaP2O5JbgLWBIpUQc) 
 
 
 <hr/>
