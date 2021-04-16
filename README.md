@@ -11,7 +11,7 @@ Nessa App será possível ver, buscar, filtrar, favoritar e acompanhar o process
 
 #### API UTILIZADA 
 TheMealDB API
-O TheMealDB é um banco de dados aberto, mantido pela comunidade, com receitas e ingredientes de todo o mundo.
+O TheMealDB é um banco de dados aberto, mantido pela comunidade, com receitas e ingredientes de todo o mundo. :earth_americas:
 
 
 #### Tecnologias utilizadas: 
