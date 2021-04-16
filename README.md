@@ -48,3 +48,17 @@ Testes  unitários cobrindo mais de 90% do projeto; :heavy_check_mark:
 
 <img align="left" src="https://user-images.githubusercontent.com/21336683/114958731-0428b300-9e3a-11eb-9521-b66317319847.gif" alt="Tela de receita feita" title="Receita feita" hspace="20"/>
 <br/>
+
+
+<hr/>
+
+
+### :coffee: Implementações futuras :mechanical_arm: :
+
+Tarefas                                                       | Em execução      |  Feito     |
+--------------------------------------------------------------| ---------------- | -----------|
+Adição de novas receitas                                      |   :hourglass:    |            |
+Melhorar estilização.                                         |   :hourglass:    |            | 
+Adicionar mais informações ao perfil (nome, sobrenome, idade) |   :hourglass:    |            |
+Autenticação com Firebase                                     |   :hourglass:    |            |
+
