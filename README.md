@@ -17,7 +17,7 @@ O TheMealDB é um banco de dados aberto, mantido pela comunidade, com receitas e
 #### Tecnologias utilizadas: 
 * React;
 * Context API para gerenciar estado;
-* HOOks;
+* Hooks;
 * Javascript ES6;
 * HTML5;
 * CSS;
