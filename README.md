@@ -55,8 +55,6 @@ Testes  unitários cobrindo mais de 90% do projeto; :heavy_check_mark:
 
 Link para apresentação:
 <br>
-**Apresentação**
-<br>
 <br>
 [APRESENTAÇÃO MÓDULO FRONT-END](https://drive.google.com/drive/u/0/folders/1RrJnz-D-rstEA1CHaP2O5JbgLWBIpUQc) 
 
