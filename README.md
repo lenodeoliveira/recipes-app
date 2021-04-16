@@ -1,7 +1,7 @@
 # :medal_sports: APP DE RECEITAS :plate_with_cutlery:
 
 
-Projeto desenvolvido em grupo para conclusão do módulo 2, desenvolvimento front-end.
+Projeto desenvolvido em grupo para conclusão do módulo 2 de desenvolvimento front-end.
 
 #### DESAFIO:
 
