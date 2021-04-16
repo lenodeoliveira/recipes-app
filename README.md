@@ -50,15 +50,3 @@ Testes  unitários cobrindo mais de 90% do projeto; :heavy_check_mark:
 <br/>
 
 
-<hr/>
-
-
-### :coffee: Implementações futuras :mechanical_arm: :
-
-Tarefas                                                       | Em execução      |  Feito     |
---------------------------------------------------------------| ---------------- | -----------|
-Adição de novas receitas                                      |   :hourglass:    |            |
-Melhorar estilização.                                         |   :hourglass:    |            | 
-Adicionar mais informações ao perfil (nome, sobrenome, idade) |   :hourglass:    |            |
-Autenticação com Firebase                                     |   :hourglass:    |            |
-
