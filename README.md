@@ -10,7 +10,7 @@ Construir um App de Receitas utilizando o que há de mais moderno dentro do ecos
 Nessa App será possível ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks!
 
 #### API UTILIZADA 
-TheMealDB API
+TheMealDB API:<br>
 O TheMealDB é um banco de dados aberto, mantido pela comunidade, com receitas e ingredientes de todo o mundo. :earth_americas:
 
 
