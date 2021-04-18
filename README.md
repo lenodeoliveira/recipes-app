@@ -24,6 +24,7 @@ O TheMealDB é um banco de dados aberto, mantido pela comunidade, com receitas e
 * Jest;
 * React Testing Library;
 * Biblioteca clipboard-copy;
+* prop-types;
 * Trello.
 
 #### Arquitetura
