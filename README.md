@@ -1,7 +1,7 @@
 # :medal_sports: APP DE RECEITAS :plate_with_cutlery:
 
 
-Projeto desenvolvido em grupo para conclusão do módulo 2 de desenvolvimento front-end do curso de Desenvolvedor web Full-Stack da [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjw9_mDBhCGARIsAN3PaFNosPNg-Ngtx3s6aTG7konh-9_FIhdRMlsG98Cwhf0WG2tIQhtg1RcaAi1tEALw_wcB).
+Projeto desenvolvido em grupo para conclusão do módulo 2 de desenvolvimento front-end do curso de Desenvolvedor Web Full-Stack da [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjw9_mDBhCGARIsAN3PaFNosPNg-Ngtx3s6aTG7konh-9_FIhdRMlsG98Cwhf0WG2tIQhtg1RcaAi1tEALw_wcB).
 
 #### DESAFIO:
 
